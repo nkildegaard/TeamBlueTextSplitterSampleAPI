@@ -7,3 +7,5 @@ Improvement notes:
 "SplitIntoDistinctWords" needs more test cases
 
 "SplitIntoDistinctWords" implemented very quickly (any problems with the implementation? performance?)
+
+test
